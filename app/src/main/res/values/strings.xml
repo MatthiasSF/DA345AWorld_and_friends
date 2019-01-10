@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">P2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sa_pick_existing">Pick existing group</string>
+    <string name="sa_create_group">Create a new group</string>
+    <string name="switch_english" translatable="false">English</string>
+    <string name="sa_sv_pick_existing" translatable="false">Välj existerande grupp</string>
+    <string name="sa_sv_create_group" translatable="false">Skapa ny grupp</string>
+    <string name="switch_sv_svenska" translatable="false">Svenska</string>
+    <string name="exGroup_text">Click on the group you wish to join</string>
+    <string name="exGroup_sv_text" translatable="false">Klicka på den grupp du vill gå med i</string>
+    <string name="createNew_hintName">Name</string>
+    <string name="createNew_hintGroup">Group name</string>
+    <string name="createNew_sv_hintName" translatable="false">Namn</string>
+    <string name="createNew_sv_hintGroup" translatable="false">Gruppnamn</string>
+    <string name="createNew_Button">Create group</string>
+    <string name="createNew_sv_Button" translatable="false">Skapa grupp</string>
+    <string name="frag_hint">Enter your name</string>
+    <string name="frag_hint_sv" translatable="false">Skriv in ditt namn</string>
+    <string name="frag_button" translatable="false">Ok</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_name_input" translatable="false">NameInputActivity</string>
+</resources>

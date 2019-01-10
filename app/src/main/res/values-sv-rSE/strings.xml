@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P2</string>
+    <string name="title_activity_maps">Karta</string>
+    <string name="sa_pick_existing">Välj existerande grupp</string>
+    <string name="sa_create_group">Skapa ny grupp</string>
+    <string name="exGroup_text">Klicka på den grupp du vill gå med i</string>
+    <string name="createNew_hintName">Namn</string>
+    <string name="createNew_hintGroup">Grupp namn</string>
+    <string name="createNew_Button">Skapa grupp</string>
+    <string name="frag_hint">Skriv in ditt namn</string>
+</resources>
